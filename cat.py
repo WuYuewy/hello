@@ -1,7 +1,7 @@
 import sys
 def main():
-    if sys.argv[1]=='cat':
-        print("cat")
+    if sys.argv[1]=='dog':
+        print("dog")
     else :
         print("hello")
 
